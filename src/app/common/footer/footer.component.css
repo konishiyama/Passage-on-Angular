@@ -1,0 +1,54 @@
+footer{
+  text-align: center;
+  font-size: 12px;
+}
+
+.contact{
+  height: 40px;
+  line-height: 38px;
+  text-align: center;
+  border-top: solid 2px #F1EBF2;
+  margin-top: 40px;
+}
+
+.contact a {
+  font-family: Verdana, sans-serif;
+  white-space: nowrap;
+  text-decoration: none;
+  font-size: 12px;
+  color: #404040;
+  /* margin-right: 45px */
+  /* text-decoration: none; */
+}
+
+.footer__aboutus{
+  margin-right: 45px
+}
+
+.footer__contact{
+  margin-left: 45px
+}
+
+footer div a span{
+  font-family: Verdana, sans-serif;
+  white-space: nowrap;
+  font-size: 14px;
+  color: #404040;
+  text-decoration: none;
+
+}
+
+.copyright{
+  font-size: 10px;
+  color: white;
+  height: 20px;
+  line-height: 20px;
+  background-color: #A9A9A9;
+  text-align: center;
+}
+
+footer a:hover{
+  opacity: 0.7;
+  color: #169FFA;
+  transition: 0.5s;
+}
